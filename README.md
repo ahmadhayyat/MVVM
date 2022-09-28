@@ -8,7 +8,7 @@ A simple Android template that lets you create an **Android** project quickly.
 
 ## How to use 👣
 
-Just click on [![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/Drjacky/MVVMTemplate/generate) button to create a new repo starting from this template.
+Just click on [![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/ahmadhayyat/MVVM/generate) button to create a new repo starting from this template.
 
 ## Compose version ⭐
 For the compose version, which is under development, switch to [feature/compose](https://github.com/Drjacky/MVVMTemplate/tree/feature/compose) branch.
